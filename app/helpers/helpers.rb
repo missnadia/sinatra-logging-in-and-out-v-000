@@ -1,5 +1,3 @@
-require 'sinatra/base'
-
 class Helpers
 
   def self.current_user
